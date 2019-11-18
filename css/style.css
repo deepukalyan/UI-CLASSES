@@ -5,4 +5,7 @@
 
 table {
     background: #ff0000;
+    width: 100%;
+    padding: 20px;
+    font-size: 16px;
 }
